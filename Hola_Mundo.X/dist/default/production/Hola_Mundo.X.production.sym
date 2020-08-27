@@ -1,0 +1,66 @@
+__S0 8000 0 ABS 0
+__S1 0 0 ABS 0
+__Hudata_bank4 16 0 ABS 0
+__Ludata_bank4 16 0 ABS 0
+__Hconfig 30000E 0 CONFIG 4
+__Lconfig 0 0 CONFIG 4
+__Hudata_acs 16 0 ABS 0
+__Ludata_acs 16 0 ABS 0
+__HCODE 16 0 ABS 0
+__LCODE 0 0 ABS 0
+__HHOLA 16 0 ABS 0
+__LHOLA 16 0 ABS 0
+__Hudata_bank5 16 0 ABS 0
+__Ludata_bank5 16 0 ABS 0
+__Hcode 16 0 ABS 0
+__Lcode 16 0 ABS 0
+__Hdata 16 0 ABS 0
+__Ldata 16 0 ABS 0
+__Hudata_bank0 16 0 ABS 0
+__Ludata_bank0 16 0 ABS 0
+__HDATAS 16 0 ABS 0
+__LDATAS 16 0 ABS 0
+__Hudata_bank6 16 0 ABS 0
+__Ludata_bank6 16 0 ABS 0
+__Hedata B 0 EEDATA 3
+__Ledata B 0 EEDATA 3
+__Hudata 16 0 ABS 0
+__Ludata 16 0 ABS 0
+__Hudata_bank1 16 0 ABS 0
+__Ludata_bank1 16 0 ABS 0
+__Hspace_0 8000 0 ABS 0
+__Lspace_0 0 0 ABS 0
+__Hspace_1 0 0 ABS 0
+__Lspace_1 0 0 ABS 0
+__Hudata_bank7 16 0 ABS 0
+__Ludata_bank7 16 0 ABS 0
+__Hspace_3 B 0 ABS 0
+__Lspace_3 0 0 ABS 0
+__Hspace_4 60000E 0 ABS 0
+__Lspace_4 0 0 ABS 0
+__Hudata_bank2 16 0 ABS 0
+__Ludata_bank2 16 0 ABS 0
+__Hudata_bank3 16 0 ABS 0
+__Ludata_bank3 16 0 ABS 0
+%segments
+HOLA 7FFC 7FFF CODE 7FFC 0
+%locals
+build/default/production/Programa_principal.o
+C:\\Program Files\\Microchip\\xc8\\v2.20\\pic\\include\\proc\\pic18f4550.inc
+Programa_principal.s
+66 16 0 ABS 0
+Programa_principal.s
+70 7FFC 0 CODE 0
+71 7FFC 0 CODE 0
+Programa_principal.s
+74 0 0 ABS 0
+75 0 0 ABS 0
+76 2 0 ABS 0
+77 4 0 ABS 0
+78 6 0 ABS 0
+79 8 0 ABS 0
+80 A 0 ABS 0
+81 A 0 ABS 0
+82 E 0 ABS 0
+83 10 0 ABS 0
+84 12 0 ABS 0
